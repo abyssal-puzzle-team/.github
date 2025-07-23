@@ -1,12 +1,21 @@
-## Abyssal Puzzle 制作组
-#### 网页部门应该加入此组织以获得最新ap仓库的pull和push权限
+# Abyssal Puzzle 制作组
+
+## For Public
+
+[Abyssal Puzzle 2 网页](https://github.com/abyssal-puzzle-team/Abyssal)
+
+[Abyssal Puzzle 3 网页](https://github.com/abyssal-puzzle-team/abyssal3)
+
+## For Members
+
+### 网页部门应该加入此组织以获得最新ap仓库的pull和push权限
 这点很重要。
 
 如果你负责ap系列的网页部分，务必加入此组织（不负责也可以进）
 
-#### 组织负责人: 苍宿影
+### 组织负责人: 苍宿影
 
-## 加入
+### 加入
 你可以在qq群内私信我邀请你加入
 
 也可以发邮件至admin@asterveil.top
